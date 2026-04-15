@@ -1,5 +1,5 @@
 from lib import count_common_elements
-
+#afaf
 def test_count_common_elements():
     result = count_common_elements([1,2,3,4], [2,3,5], [0,2,3,7])
     assert result == 2, f"Ожидалось 2, получено{result}"
